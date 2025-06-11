@@ -24,11 +24,11 @@ Where:
 ### Examples
 
 - **`m8_1dis_spread1_85.txt`**  
-  → 85 subspaces selected from a single spread (`spread1`) for `m = 8`.  
+  → 85 subspaces selected from a single spread for `m = 8`.  
   The `1dis` indicates that the subspaces come from one disjoint spread.
 
-- **`m8_2dis_spread2_90.txt`**  
-  → 90 subspaces selected from two disjoint spreads (`spread2`) for `m = 8`.
+- **`m9_3dis_spread1_493.txt`**  
+  → 493 subspaces selected from three disjoint spreads for `m = 9`.
 
 - **`m8_ran1_85_225.txt`**  
   → Randomly selected subspaces for `m = 8`, with a correlation threshold of 225.  
